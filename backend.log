@@ -1,0 +1,27 @@
+
+> ai-assistant@1.0.0 start
+> node server.js
+
+◇ injected env (3) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+🚀 Server running at http://localhost:5000
+➡️ Request: POST /process-email
+➡️ Request: POST /process-email
+➡️ Request: POST /process-email
+➡️ Request: POST /process-email
+➡️ Request: POST /process-email
+➡️ Request: POST /process-email
+➡️ Request: POST /process-email
+➡️ Request: POST /process-email
+➡️ Request: POST /process-email
+➡️ Request: POST /process-email
+➡️ Request: POST /process-email
+➡️ Request: POST /process-email
+➡️ Request: GET /health
+➡️ Request: POST /process-email
+➡️ Request: POST /process-email
+➡️ Request: POST /process-email
+➡️ Request: GET /health
+➡️ Request: POST /process-email
+➡️ Request: POST /process-email
+➡️ Request: POST /process-email
+➡️ Request: POST /process-email
