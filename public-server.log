@@ -1,0 +1,5 @@
+
+> ai-assistant-frontend@0.1.0 start:public
+> node public-server.js
+
+Public product server running at http://localhost:8080
